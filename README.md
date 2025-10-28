@@ -8,4 +8,4 @@ Features:
 - Machine Learning: Optimized decision tree model with hyperparameter tuning.
 - Data Simulation: Generates synthetic sensor data and applies differential privacy.
 - Visualization: Plots trends for temperature and humidity.
-- Continuous Integration: GitHub Actions runs tests automatically on push.# ML-Security-approaches-for-IIoT
+- Continuous Integration: GitHub Actions runs tests automatically on push.
